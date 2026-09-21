@@ -1,0 +1,36 @@
+header {
+  background: #19419e;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  color: rgb(235, 229, 229);
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.hero {
+  background: rgb(68, 30, 30);
+  text-align: center;
+  padding: 80px 20px;
+  color: black;
+}
+.btn {
+  background: #19419e;
+  padding: 10px 25px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.content {
+  padding: 50px 20px;
+  text-align: center;
+}
+footer {
+  background: #19419e;
+  color: #94a3b8;
+  text-align: center;
+  padding: 20px;
+}
